@@ -1,0 +1,4 @@
+	public void main £¨Sting[]  args){
+
+		system.out.println("ÄãºÃÊÀ½ç")
+}
