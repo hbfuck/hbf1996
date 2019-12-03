@@ -1,4 +1,4 @@
 	public void main （Sting[]  args){
 
-		system.out.println("你好世界")
+		system.out.println("你好世界")；
 }
